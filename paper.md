@@ -22,3 +22,5 @@ titanium is also a poorer conductor of heat as compared to aluminium
 
 # results
 just makes the phone very expensive 
+# figures
+figures go in their own section in a draft paper
