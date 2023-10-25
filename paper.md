@@ -1,5 +1,5 @@
 # Title
-Titnaium 
+Titnaium should be used for areoplanes
 
 # Author
 Patrick Curran
