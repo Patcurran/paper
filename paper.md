@@ -12,3 +12,5 @@ titnaium is more engery intensive than aluminium
 
 
 iphones needs to be less expensive
+
+added some words
