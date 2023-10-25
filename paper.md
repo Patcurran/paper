@@ -1,8 +1,10 @@
 # Title
-Titnaium should be used for areoplanes
+Titnaium in iphones 
+
 
 # Author
 Patrick Curran
+Billie Bob
 
 # introudction
 The new iphone doesn't need to be made from titnaium 
@@ -11,3 +13,5 @@ titnaium is more engery intensive than aluminium
 
 
 iphones needs to be less expensive
+
+added some words
