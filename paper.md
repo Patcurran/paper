@@ -15,3 +15,6 @@ titnaium is more engery intensive than aluminium
 iphones needs to be less expensive
 
 added some words
+
+# method
+titanium is also a poorer conductor of heat as compared to aluminium
