@@ -3,8 +3,9 @@ Titnaium in iphones
 
 
 # Author
-Patrick Curran, uni of mancehster
 Billie Bob
+Patrick Curran, uni of mancehster
+
 
 # introudction
 The new iphone doesn't need to be made from titnaium 
