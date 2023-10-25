@@ -1,8 +1,9 @@
 # Title
-Titnaium 
+Titnaium in iphones 
 
 # Author
 Patrick Curran
+Billie Bob
 
 # introudction
 The new iphone doesn't need to be made from titnaium 
