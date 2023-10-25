@@ -3,7 +3,7 @@ Titnaium in iphones
 
 
 # Author
-Patrick Curran
+Patrick Curran\\
 Billie Bob
 
 # introudction
@@ -18,3 +18,7 @@ added some words
 
 # method
 titanium is also a poorer conductor of heat as compared to aluminium
+
+
+# results
+just makes the phone very expensive 
